@@ -8,7 +8,7 @@ FreneticV participated in the [competition](https://sbst22.github.io/tools/) on 
 
 ### Repository
 * Code of FreneticV
-* A [preprint](https://github.com/ERATOMMSD/freneticV-sbst22/blob/main/documentation/freneticVsbst22Preprint.pdf) explaining FreneticV
+* A [preprint](https://github.com/ERATOMMSD/freneticV-sbst22/raw/main/documentation/freneticVsbst22Preprint.pdf) explaining FreneticV
 
 ## People
 * Ezequiel Castellano https://jp.linkedin.com/in/ezequiel-castellano-7076962b
